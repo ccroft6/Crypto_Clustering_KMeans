@@ -1,4 +1,5 @@
 # Crypto Clustering with K-means
+![K-means clusters](./K-means.png)
 This project uses the unsupervised machine learning technique of clustering to cluster cryptocurrencies by their performance in different time periods. The time periods include the price change percentage for 24 hours, 7 days, 14 days, 30 days, 60 days, 200 days, and 1 year. There are 41 different coins included in the dataset. This project first applies the K-means algorithm using the original data, and then it optimizes the clusters using the Principal Component Analysis (PCA). A scatter plot of the clusters for the original data and the PCA data is created and analyzed.
 
 ---
